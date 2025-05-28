@@ -84,13 +84,13 @@ This will read `recipe.csv`, perform the calculations, and output `recipe_calori
 * Automate unit conversion (e.g., cups to grams)
 * Integrate with the [USDA FoodData Central API](https://fdc.nal.usda.gov/)
 * Add macro breakdown (fat, protein, carbs)
-* Build a Streamlit UI
+* Build a better UI (not w/ streamlit) 
 
 ---
 
 ## 🧑‍🍳 Inspiration
 
-Designed for home chefs, food bloggers, and nutrition enthusiasts who want quick, interpretable calorie feedback from their favorite recipes.
+Designed for the food product development club at UF. Can be used by any one who is interested in figuring out the nutritional content of their recipes!
 
 ---
 
