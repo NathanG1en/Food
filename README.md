@@ -1,6 +1,3 @@
-Sure! Here's a polished and professional `README.md` for your project:
-
----
 
 # 🍪 Food Calorie Analyzer
 
@@ -44,11 +41,14 @@ cd Food
 
 ### 2. Install Dependencies
 
-This project only requires standard Python libraries like `pandas`. You can install them via:
+This project only requires pretty standard Python libraries like `pandas`. You can install them via:
 
 ```bash
-pip install pandas
+pip install streamlit
+pip install pandas 
+pip install python-dotenv
 ```
+This was one of my first projects, so I didn't use a package manager or make a requirements.txt, but these are only a couple dependencies 
 
 ### 3. Run the Script
 
